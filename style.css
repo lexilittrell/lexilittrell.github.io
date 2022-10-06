@@ -1,5 +1,5 @@
 th {
-  background-color: #04AA6D;
+  background-color: Blue;
   color: black;
 }
 
@@ -7,7 +7,7 @@ th, td {
   padding: 15px;
   text-align: left;
 }
-tr:hover {background-color: coral;}
+tr:hover {background-color: Red;}
 th, td {
   border-bottom: 2px solid #ddd;
 }
