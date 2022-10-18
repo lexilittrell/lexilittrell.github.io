@@ -24,4 +24,9 @@ div.home
     text-align: center;
     font-size: 30px;
 }
-    
+li
+{
+   text-align: center;
+   font-size: 25px;
+   font-family: "Times New Roman";
+}
