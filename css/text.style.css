@@ -19,3 +19,11 @@ section
  background-color: black;
  float: left;
 }
+div.home
+{
+    text-align: center;
+    font-size: 25px;
+    color: White;
+    background-color: black;
+}
+    
