@@ -1,1 +1,14 @@
-
+body { background-color: lightpink;
+  
+}
+h1.index { font-size: 30px;
+font-family: Cursive;
+font-color: black;
+  
+}
+h2.index { font-size: 20px;
+  
+}
+div.index { font-size: 15px;
+  
+}
