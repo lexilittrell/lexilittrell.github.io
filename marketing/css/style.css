@@ -1,5 +1,5 @@
 body {
-    background-color: lightred;
+    background-color: White;
 }
 h1.index {
     text-align: center;
@@ -9,8 +9,13 @@ h1.index {
 }
 h2.index {
     font-size: 30px;
+    text-align: center;
 }
 div.index {
   text-align: center;
   font-size: 20px;
+}
+p.index {
+   font-size: 30px;
+    text-align: center;
 }
