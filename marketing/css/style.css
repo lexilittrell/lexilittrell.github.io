@@ -1,1 +1,16 @@
-
+body {
+    background-color: lightred;
+}
+h1.index {
+    text-align: center;
+    color: white;
+    background-color: rgb(0,0,0);
+    font-size: 40px;
+}
+h2.index {
+    font-size: 30px;
+}
+div.index {
+  text-align: center;
+  font-size: 20px;
+}
